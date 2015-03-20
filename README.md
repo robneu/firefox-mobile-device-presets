@@ -7,7 +7,7 @@ In Firefox, open a new tab and navigate to `about:config`. In the search bar, se
 
 ## Usage
 
-Open the responsive design view through the developer tools dialog box, Firefox menu `Extra -> Web Developer -> Responsive Design View`, or by using the keyboard shortcut `Alt + Shift + M` on Mac or `Ctrl + Shift + M` on Windows.
+Open the responsive design view through the developer tools dialog box, Firefox menu `Extra -> Web Developer -> Responsive Design View`, or by using the keyboard shortcut `Alt + Cmd + M` on Mac or `Ctrl + Shift + M` on Windows.
 
 
 ## Credits
