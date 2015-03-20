@@ -3,7 +3,7 @@ Mobile device presets for Firefox dev tools' [responsive design view](https://de
 
 ## Installation
 
-In Firefox, open a new tab and navigate to `about:config`. In the search bar, search for `devtools.responsiveUI.presets`. Edit the entry (or create it if it doesn't exist yet) and replace the value with the contents of `presets.json`.
+In Firefox, open a new tab and navigate to `about:config`. In the search bar, search for `devtools.responsiveUI.presets`. Edit the entry (or create it if it doesn't exist yet) and replace the value with the contents of `mobile-device-presets.json`.
 
 ## Usage
 
