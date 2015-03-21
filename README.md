@@ -13,7 +13,9 @@ Open the responsive design view through the developer tools dialog box, Firefox 
 
 If you would like to help out with the project, we're looking for people to test the accuracy of the device presets. In order to test a device, please [open an issue for it](https://github.com/robneu/firefox-mobile-device-presets/issues/) if one doesn't already exist. Testing a device means comparing the visual representation of a website within the Firefox responsive design view to the actual display of a real, physical device.
 
-If the results are inaccurate, please provide as much data as possible about the inaccuracies such as browser information, device version, screenshots, measurement data, and anything else you think will be helpful to getting a more accurate result.
+For verification proof, please include a screenshot from the device you're testing as well as a screenshot of the same webpage in the Firefox responsive design view. If the results are inaccurate, please provide as much data as possible about the inaccuracies such as browser information, device version, screenshots, measurement data, and anything else you think will be helpful to getting a more accurate result.
+
+If you would like to receive contributor credit on the repo, please submit a pull request against this readme file with the verification status added to the list of devices bellow. Please follow the same format used on other verified devices.
 
 ## Included Devices
 
