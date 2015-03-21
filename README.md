@@ -24,7 +24,7 @@ All devices marked verified have been tested as accurate by someone with an actu
 * Apple iPhone 5
 * Apple iPhone 3 & 4
 * Google Nexus 6
-* Google Nexus 5
+* Google Nexus 5 - [Verified](https://github.com/robneu/firefox-mobile-device-presets/issues/6)
 * Google Nexus 4
 * Google Galaxy Nexus
 * Samsung Galaxy Note Original
