@@ -50,7 +50,7 @@ All devices marked verified have been tested as accurate by someone with an actu
 * Google Nexus 10
 * Google Nexus 9
 * Google Nexus 7 v2
-* Google Nexus 7 v1
+* Google Nexus 7 v1 - [Verified](https://github.com/robneu/firefox-mobile-device-presets/issues/30)
 * Samsung Galaxy Tab
 * Samsung Galaxy Tab 2 7
 * LG G Pad 8.3
