@@ -32,7 +32,7 @@ All devices marked verified have been tested as accurate by someone with an actu
 * Samsung Galaxy Note Original
 * Samsung Galaxy Note
 * Samsung Galaxy S S2 & S3 Mini
-* HTC One
+* HTC One [Verified](https://github.com/robneu/firefox-mobile-device-presets/issues/12)
 * HTC 8X
 * HTC Evo 3D
 * LG G3
@@ -62,6 +62,13 @@ All devices marked verified have been tested as accurate by someone with an actu
 * Blackberry Playbook
 * Apple iPod Touch
 * Google Glass
+
+## Thanks
+
+I'd like to say thanks to everyone who has helped improve these presets by taking the time to test them on their devices. Thank you!
+
+- [Matt Zak](https://github.com/mzak)
+- [Hans Swolfs](https://github.com/hansswolfs)
 
 ## Credits
 
